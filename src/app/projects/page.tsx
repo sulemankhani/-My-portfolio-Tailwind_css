@@ -19,7 +19,7 @@ const data = [
         title:"Static resume",
         des:"This is a Static resume builder project which is made by using html and css.",
         img:"/images/static.png",
-        link:"https://hackathone-milestone-delta.vercel.app/",
+        link:"",
         tag:["React","Node","Restful API","SCSS"]
     },
     {
